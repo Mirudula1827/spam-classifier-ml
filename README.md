@@ -45,11 +45,10 @@ pip install -r requirements.txt
 
 ## 🧪 Example Predictions
 
-| Message                      | Prediction |
-| ---------------------------- | ---------- |
-| "URGENT! You have won a 1
-  lakh cash prize. Call now!"  | Spam       |
-| "Hey, are we meeting today?" | Not Spam   |
+| Message                                               | Prediction |
+| ----------------------------                          | ---------- |
+| "URGENT! You have won a 1lakh cash prize. Call now!"  | Spam       |
+| "Hey, are we meeting today?"                          | Not Spam   |
 
 ---
 
