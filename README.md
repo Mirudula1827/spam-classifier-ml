@@ -9,7 +9,7 @@ A machine learning web application that classifies text messages as **Spam** or 
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements an end-to-end text classification pipeline to detect spam messages. It uses **TF-IDF vectorization** combined with a **Logistic Regression classifier** to achieve high accuracy and real-time predictions.
 
@@ -18,13 +18,13 @@ The application is deployed using **Streamlit**, providing an interactive interf
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 👉 [Click here to try the app](https://spam-classifier-ml-erogxrj8mfzzmyeohcha5r.streamlit.app/)
 
 ---
 
-## 🚀 Highlights
+## Highlights
 
 - 🧠 NLP preprocessing (tokenization, stopword removal, lemmatization)
 - 🔤 TF-IDF vectorization for feature extraction
@@ -37,7 +37,7 @@ The application is deployed using **Streamlit**, providing an interactive interf
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 - Accuracy: ~97.5%
 - Precision: ~91%
@@ -46,7 +46,7 @@ The application is deployed using **Streamlit**, providing an interactive interf
 
 ---
 
-## 🔁 Workflow Overview
+## Workflow Overview
 
 | Step | Description |
 |------|------------|
@@ -62,7 +62,7 @@ The application is deployed using **Streamlit**, providing an interactive interf
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Scikit-learn
@@ -73,7 +73,7 @@ The application is deployed using **Streamlit**, providing an interactive interf
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/Mirudula1827/spam-classifier-ml.git
@@ -83,7 +83,7 @@ streamlit run app.py
 
 ```
 ---
-## 📊 Sample Output
+## Sample Output
 
 Input:
 Win money now!!!
@@ -93,14 +93,14 @@ Output:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - 📉 Model trained on SMS dataset; may not generalize to all domains
 - 🌍 Does not account for evolving spam patterns
 - 🧠 Limited contextual understanding compared to deep learning models
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 - Use deep learning models (LSTM / Transformers)
 - Deploy as REST API using Flask/FastAPI
 - Add multilingual support
@@ -108,12 +108,12 @@ Output:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 ---
 ---
-## 👨‍💻 Author
+## Author
 
 Mirudula N D
 ---
